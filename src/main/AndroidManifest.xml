@@ -3,12 +3,10 @@
     <application>
         <activity
             android:name=".imp.IRequestPermissions$OpenAppSettings"
-            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Translucent.NoTitleBar">
         </activity>
         <activity
             android:name=".CheckPermissionsActivity"
-            android:screenOrientation="portrait"
             android:theme="@android:style/Theme.Translucent.NoTitleBar">
         </activity>
     </application>
